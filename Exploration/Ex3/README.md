@@ -7,6 +7,7 @@
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
+        - loss 와 accuracy를 전체 baseline, basic augmentation, basic augmentation + mixup, basic augmentation + cutmix 과정을 표로 깔끔하게 정리  
         - <img width="925" height="295" alt="image" src="https://github.com/user-attachments/assets/e2872db5-9278-4e98-b27d-7a0d8778bce6" />
 
     
